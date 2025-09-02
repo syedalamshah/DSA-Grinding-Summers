@@ -9,9 +9,9 @@ class Node {
         this.data = data;
         this.next = null;
     }
-}
+ }
 
-class LinkedList {
+ class LinkedList {
     Node head;
     
     // Method to reverse the linked list
@@ -49,7 +49,7 @@ class LinkedList {
     }
     
     // Helper: Display list
-    public void display() {
+  public void display() {
         Node curr = head;
         while (curr != null) {
             System.out.print(curr.data);
@@ -60,11 +60,11 @@ class LinkedList {
     }
 }
 
-class ReverseLinkedList {
+  class ReverseLinkedList {
     public static void main(String[] args) {
         System.out.println("=== Reverse Linked List Demo ===\n");
         
-        LinkedList list = new LinkedList();
+     LinkedList list = new LinkedList();
         
         // Create list: 1 → 2 → 3 → null
         list.insertAtBeginning(3);
@@ -84,6 +84,8 @@ class ReverseLinkedList {
         dryRun();
     }
     
+   
+
     public static void dryRun() {
         System.out.println("\n" + "=".repeat(50));
         System.out.println("🧠 DRY RUN - Step by Step");
@@ -115,5 +117,5 @@ class ReverseLinkedList {
         
         System.out.println("\n📍 Final: head = prev = [3]");
         System.out.println("✅ Final Result: 3 → 2 → 1 → null");
-    }
-}
+      }
+ }
