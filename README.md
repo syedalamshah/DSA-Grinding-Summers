@@ -9,19 +9,49 @@ Welcome to **DSA Grinding Summers** – a professionally curated resource for ma
 This repository is designed for students, professionals, and coding enthusiasts seeking a systematic approach to building strong DSA foundations. You will find well-organized topics, practical problems, and clean Java solutions, making it ideal for interview preparation and academic revision.
 
 ---
-## 📚 Topics Covered  
 
-- <img src="assets/icons/array.svg" width="25" alt="Array icon" /> **Arrays** – Operations, Searching, Sorting, Two-Pointer Techniques  
-- <img src="assets/icons/arraylist.svg" width="25" alt="ArrayList icon" /> **ArrayList** – Dynamic arrays & operations  
-- <img src="assets/icons/linkedlist.svg" width="25" alt="Linked List icon" /> **Linked Lists** – Singly, Doubly, Circular etc.  
-- <img src="assets/icons/stack.svg" width="25" alt="Stack icon" /> **Stacks & Queues**  
-- <img src="assets/icons/tree.svg" width="25" alt="Tree icon" /> **Trees & Binary Trees**  
-- <img src="assets/icons/graph.svg" width="25" alt="Graph icon" /> **Graphs** – BFS, DFS, etc.  
-- <img src="assets/icons/hash.svg" width="25" alt="Hash icon" /> **Hashing** – Maps & Tables  
-- <img src="assets/icons/recursion.svg" width="25" alt="Recursion icon" /> **Recursion & Backtracking**  
-- <img src="assets/icons/dp.svg" width="25" alt="DP icon" /> **Dynamic Programming**  
-- <img src="assets/icons/sort.svg" width="25" alt="Sorting icon" /> **Searching & Sorting**  
-- <img src="assets/icons/misc.svg" width="25" alt="Misc icon" /> **Miscellaneous** – Bit-manipulation, Greedy, etc.
+## Topics Covered
+
+The content is arranged to reflect an optimal sequence for learning and revision:
+
+- **Arrays**
+  - Array operations: creation, update, traversal
+  - Searching and sorting algorithms
+  - Two pointer techniques
+- **ArrayList**
+  - Dynamic arrays
+  - Common operations and use cases
+- **Linked Lists**
+  - Singly and doubly linked lists
+  - Circular linked lists
+  - Algorithms: reversal, cycle detection, merging, etc.
+- **Stacks and Queues**
+  - Stack operations
+  - Queue and circular queue
+  - Priority queue
+- **Trees and Binary Trees**
+  - Binary Search Trees (BST), AVL trees
+  - Tree traversals: inorder, preorder, postorder
+- **Graphs**
+  - Breadth-First Search (BFS) and Depth-First Search (DFS)
+  - Shortest path algorithms: Dijkstra, Floyd-Warshall
+  - Topological sorting
+- **Hashing**
+  - Hash tables and maps
+- **Recursion and Backtracking**
+  - Principles and classic problems
+  - Backtracking algorithms
+- **Dynamic Programming**
+  - Memoization and tabulation
+  - Fundamental DP problems: knapsack, LIS, etc.
+- **Searching and Sorting**
+  - Standard sorting algorithms: bubble, merge, quick, heap, radix
+  - Binary and linear search
+- **Miscellaneous**
+  - Bit manipulation
+  - Greedy algorithms
+  - Sliding window
+  - Mathematical algorithms
 
 ---
 
